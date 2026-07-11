@@ -11,7 +11,8 @@ Joining computers to a domain is a common responsibility for Help Desk and Deskt
 # Lab Environment
 
 <img width="1917" height="1197" alt="active directory vmware" src="https://github.com/user-attachments/assets/3dfc9cd2-e435-4f36-81f9-624c15d89a5e" />
-<img width="1917" height="1197" alt="active directory vmware" src="https://github.com/user-attachments/assets/d2353594-c3b6-488b-98d0-19c50170045d" />
+<img width="1917" height="1197" alt="active directory pic" src="https://github.com/user-attachments/assets/371972f3-c27f-463a-93a8-6a52f9356ea4" />
+
 
 
 |-----------|---------|
